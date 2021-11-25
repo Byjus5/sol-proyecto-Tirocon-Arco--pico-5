@@ -1,1 +1,1 @@
-# Project Template 26
+# Plantilla del proyecto 26
